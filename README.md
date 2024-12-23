@@ -22,3 +22,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your system.
 
    ```bash
    git clone https://github.com/your-username/express-crash-course.git
+
+   npm install
+
+   npm run server
+
